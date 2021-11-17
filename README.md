@@ -218,5 +218,15 @@ Content-Type: json
     "path": "/api/users/addDevice"
 }
 ```
-
+## Dependencies
+* spring-boot-starter-data-jpa
+* java-jwt
+* jbcrypt
+* spring-boot-starter-jdbc
+* spring-boot-starter-web
+* spring-boot-devtools
+* postgresql
+* spring-boot-starter-mail
+* jaxb-api
+* spring-boot-starter-test
 
